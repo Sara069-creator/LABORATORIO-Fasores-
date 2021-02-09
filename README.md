@@ -59,7 +59,7 @@ El fasor como antes dicho es un numero complejo y representa una oscilación, su
 
 
 
-### DESCRIPCIÓN DE PRERREQUISITOS Y 
+### REQUISITOS PREVIOS
 
 *Fasor en forma rectangular 
 
