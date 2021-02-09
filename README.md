@@ -6,13 +6,15 @@ Trabajo grupal sobre la cuarta practica de laboratorio
 
 #### OBJETIVO GENERAL
 -	Realizar operaciones aritméticas con números complejos, tanto en su forma polar como rectangular
+
 #### OBJETIVO ESPECIFICO
 -	Comparar resultados teóricos y experimentales.
 -	Poder realizar operaciones matemáticas con cantidades fasoriales.
 
 #### MARCO TEORICO
 
-![image](https://user-images.githubusercontent.com/76060654/107335328-cc8e3b00-6a85-11eb-9db7-c9d7134643d2.png)
+![image](https://user-images.githubusercontent.com/75762187/107389059-7096d700-6ac4-11eb-8842-db8a46cbe236.png)
+
 
 ### INFORMACION GENERAL
 
