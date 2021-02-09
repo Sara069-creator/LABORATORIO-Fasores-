@@ -1,4 +1,3 @@
-
 # Informe de laboratorio de circuitos
 Trabajo grupal sobre la cuarta practica de laboratorio
 
@@ -6,16 +5,13 @@ Trabajo grupal sobre la cuarta practica de laboratorio
 
 #### OBJETIVO GENERAL
 -	Realizar operaciones aritméticas con números complejos, tanto en su forma polar como rectangular
-
 #### OBJETIVO ESPECIFICO
 -	Comparar resultados teóricos y experimentales.
 -	Poder realizar operaciones matemáticas con cantidades fasoriales.
 
 #### MARCO TEORICO
 
-![image](https://user-images.githubusercontent.com/75762187/107389059-7096d700-6ac4-11eb-8842-db8a46cbe236.png)
-
-
+![image](https://user-images.githubusercontent.com/76060654/107390218-78a34680-6ac5-11eb-9acc-47edd961bfac.png)
 ### INFORMACION GENERAL
 
 Los números complejos permiten realizar operaciones matemáticas con cantidades fasoriales y son muy útiles en el análisis de circuitos de (ca). Con el sistema de los números complejos se puede sumar, restar, multiplicar y dividir cantidades que tienen tanto magnitud como ángulo.
@@ -37,12 +33,13 @@ El fasor como antes dicho es un numero complejo y representa una oscilación, su
 ![image](https://user-images.githubusercontent.com/76060654/107333235-2e00da80-6a83-11eb-8ec8-a5c2ee0f5776.png)
 ![image](https://user-images.githubusercontent.com/76060654/107333458-81732880-6a83-11eb-8b84-36c553ce673e.png)
 
-![image](https://user-images.githubusercontent.com/76060654/107333577-acf61300-6a83-11eb-8c84-1bc0b0b21b71.png) ![image](https://user-images.githubusercontent.com/76060654/107333616-ba130200-6a83-11eb-8f2a-fe01052c4ebd.png) 
+
+![image](https://user-images.githubusercontent.com/76060654/107390809-126af380-6ac6-11eb-9306-4416446aedfe.png) ![image](https://user-images.githubusercontent.com/76060654/107390835-17c83e00-6ac6-11eb-9605-b5a669d9dfa4.png)
 ![image](https://user-images.githubusercontent.com/76060654/107334504-cd729d00-6a84-11eb-8631-d20f04dca268.png) 
 ![image](https://user-images.githubusercontent.com/76060654/107334539-d82d3200-6a84-11eb-8dbc-d05850719545.png) 
 ![image](https://user-images.githubusercontent.com/76060654/107334583-e3805d80-6a84-11eb-8d79-2eb3f2372fea.png) 
 
-#### Comparación de resultados y calculo de error
+#### Comparación de resultados y cálculo de error
 
 ![image](https://user-images.githubusercontent.com/76060654/107339713-feee6700-6a8a-11eb-8b5b-9f2fa1181fd5.png)
 
@@ -70,6 +67,8 @@ En la forma rectangular, un número complejo se puede representar como un punto 
 ![image](https://user-images.githubusercontent.com/76060654/107335495-fba4ac80-6a85-11eb-9d54-e1dd5d4e4553.png)
 *Fasor en forma polar
 La forma polar de un número complejo está escrita en términos de su magnitud y el ángulo. Por lo tanto, una forma de vector polar se presenta como:   Z = A ∠ ± θ, donde: Z es el número complejo en forma polar, A es la magnitud o módulo del vector y θ es el ángulo o argumento de A que puede ser positivo o negativo.
+
+
 ![image](https://user-images.githubusercontent.com/76060654/107335517-019a8d80-6a86-11eb-93cd-e9070ce919cf.png)
 
 
