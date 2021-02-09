@@ -63,7 +63,7 @@ El fasor como antes dicho es un numero complejo y representa una oscilación, su
 Para el tema de fasores se requiere la previa investigación de este mismo en sus formas rectangulares y polares sin olvidar su propia representación gráfica de los ejercicios, así como un conocimiento más que uno básico en números complejos, ya que este representa la información sobre la amplitud y el ángulo de fase de una función senoidal.
 *Fasor en su forma rectangular 
 
-![image](https://user-images.githubusercontent.com/76060654/107335495-fba4ac80-6a85-11eb-9d54-e1dd5d4e4553.)
+![image](https://user-images.githubusercontent.com/76060654/107335495-fba4ac80-6a85-11eb-9d54-e1dd5d4e4553.png)
 
 *Fasor en forma polar
 La forma polar de un número complejo está escrita en términos de su magnitud y el ángulo. Por lo tanto, una forma de vector polar se presenta como:   Z = A ∠ ± θ, donde: Z es el número complejo en forma polar, A es la magnitud o módulo del vector y θ es el ángulo o argumento de A que puede ser positivo o negativo.
