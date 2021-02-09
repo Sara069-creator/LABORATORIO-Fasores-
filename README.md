@@ -20,13 +20,12 @@ Los números complejos permiten realizar operaciones matemáticas con cantidades
 |Cantidad|Elemento|
 |:---:|:---:|
 |1|Calculadora científica| 
-#### Explicación
+#### EXPLICACION
 
 El fasor. Bueno su concepto se establece a partir de la identidad de Euler, la cual relaciona el exponencial de un número complejo con la función trigonométrica. La función coseno es la parte real de s función exponencial, y la parte de la función del seno es la imaginaria.
 El exponencial es considerado como un número complejo, tiene una magnitud unitaria y su ángulo es Fi 
 El fasor como antes dicho es un numero complejo y representa una oscilación, su utilización viene para resolver problemas donde se suman ondas de una misma frecuencia, pero de fases y amplitudes distintas. (Estos mismos se usan en voltaje, corrientes y resistencias) con esto sirve para resolver circuitos con capacitadores e inductores con los valores de su impedancia, pero colocados como números imaginarios.
 
-### CALCULOS:
 ![image](https://user-images.githubusercontent.com/76060654/107332460-33a9f080-6a82-11eb-9316-bc64ca939307.png) ![image](https://user-images.githubusercontent.com/76060654/107332510-458b9380-6a82-11eb-9b41-7f03e3040802.png)
 ![image](https://user-images.githubusercontent.com/76060654/107333080-fa25b500-6a82-11eb-9bb3-b56af6180932.png)
 
@@ -39,7 +38,7 @@ El fasor como antes dicho es un numero complejo y representa una oscilación, su
 ![image](https://user-images.githubusercontent.com/76060654/107334539-d82d3200-6a84-11eb-8dbc-d05850719545.png) 
 ![image](https://user-images.githubusercontent.com/76060654/107334583-e3805d80-6a84-11eb-8d79-2eb3f2372fea.png) 
 
-#### Comparación de resultados y cálculo de error
+#### COMPARACION DE RESULTADOS Y MARGEN DE ERROR
 
 ![image](https://user-images.githubusercontent.com/76060654/107339713-feee6700-6a8a-11eb-8b5b-9f2fa1181fd5.png)
 
@@ -63,8 +62,9 @@ El fasor como antes dicho es un numero complejo y representa una oscilación, su
 ### DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 Para el tema de fasores se requiere la previa investigación de este mismo en sus formas rectangulares y polares sin olvidar su propia representación gráfica de los ejercicios, así como un conocimiento más que uno básico en números complejos, ya que este representa la información sobre la amplitud y el ángulo de fase de una función senoidal.
 *Fasor en su forma rectangular 
-En la forma rectangular, un número complejo se puede representar como un punto en un plano de dos dimensiones llamado el complejo o planos. Así, por ejemplo, Z = 6 + j4 representa un solo punto cuyas coordenadas representar 6 en el eje real horizontal y 4 en el eje imaginario vertical.
-![image](https://user-images.githubusercontent.com/76060654/107335495-fba4ac80-6a85-11eb-9d54-e1dd5d4e4553.png)
+
+![image](https://user-images.githubusercontent.com/76060654/107335495-fba4ac80-6a85-11eb-9d54-e1dd5d4e4553.)
+
 *Fasor en forma polar
 La forma polar de un número complejo está escrita en términos de su magnitud y el ángulo. Por lo tanto, una forma de vector polar se presenta como:   Z = A ∠ ± θ, donde: Z es el número complejo en forma polar, A es la magnitud o módulo del vector y θ es el ángulo o argumento de A que puede ser positivo o negativo.
 
@@ -79,7 +79,7 @@ Los fasores ofrecen su ayuda en los campos de la óptica, Tec, electrónica y ac
 Aporta en la resolución de problemas en donde se usa una misma frecuencia para una suma de ondas, se resuelve dibujando un fasor para cada onda y se aplica la suma vectorial.
 Los fasores se utilizan en ingeniería para simplificar los cálculos con sinusoides, ya que permiten reducir un problema de ecuaciones diferenciales a uno algebraico.
 
-#### Conclusiones
+#### CONCLUSIONES
 
 - Se logró el objetivo de la resolución de los ejercicios sin ningún problema dando con los resultados satisfactorios en los cálculos. 
 
@@ -87,11 +87,13 @@ Los fasores se utilizan en ingeniería para simplificar los cálculos con sinuso
 
 -  Se empleó tanto los conocimientos adquiriros en las clases teóricas, experimentales y una búsqueda autodidacta hecha por los mismos estudiantes. 
 
-#### Bibliografía
+####  BIBLIOGRAFIA
 https://es.wikipedia.org/wiki/Fasor
 http://www.csi-csif.es/andalucia/modules/mod_ense/revista/pdf/Numero_14/ANA_ROVI_1.pdf
 https://www.shelovesmath.com/trigonometry/polar-graphs/
-#### Anexos
+
+#### ANEXOS
+
 ![image](https://user-images.githubusercontent.com/76060654/107334827-35c17e80-6a85-11eb-9316-0d52ef4fb953.png)
 ![image](https://user-images.githubusercontent.com/76060654/107334838-3a863280-6a85-11eb-89a4-8b1dba7d00c9.png)
 ![image](https://user-images.githubusercontent.com/76060654/107334855-407c1380-6a85-11eb-952f-f2a994bad3ae.png)
